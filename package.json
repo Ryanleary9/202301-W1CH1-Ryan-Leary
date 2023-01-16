@@ -1,0 +1,20 @@
+{
+  "name": "week1challenge1",
+  "version": "1.0.0",
+  "description": "challenge1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ryan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryanleary9/202205-W1CH1-Ryan-Leary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ryanleary9/202205-W1CH1-Ryan-Leary/issues"
+  },
+  "homepage": "https://github.com/Ryanleary9/202205-W1CH1-Ryan-Leary#readme"
+}
